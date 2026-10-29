@@ -1,0 +1,16 @@
+apple
+orange
+banana
+lime
+lemon
+computer
+zoo
+street
+happy
+english
+word
+space
+earth
+code
+coffee
+tea
